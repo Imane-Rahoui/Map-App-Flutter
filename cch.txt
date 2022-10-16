@@ -1,0 +1,2 @@
+AIzaSyAHebbHa4igcFOUc2w4rKtA9hdTZvlb5TI to add to /android/app/src/main/AndroidManifest.xml
+file
